@@ -1,4 +1,4 @@
 # vdi
-VDI - Virtual Digital Interconnect. Connecting your media processing in the cloud
+VDI - Virtual Digital Interconnect. Scalable real-time object processing API
 
-todo
+

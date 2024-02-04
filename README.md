@@ -1,5 +1,6 @@
 ![Screenshot](docs/images/VDI%20Logo.png)
 
+
 # VDI
 VDI - Virtual Digital Interconnect. Scalable real-time object processing API
 
@@ -9,6 +10,7 @@ VDI uses a simple model, streams are opened typically with a URL including a UUI
 The circular buffer can be sized appropriately for the application. Typically these buffers are sized to be a power of two.
 
 Streams are constructed with a buffer size, this has to be large enough to contain the largest object that will be written.
+
 
 
 ![Screenshot](docs/images/VDI%20Process%20Flow.png)

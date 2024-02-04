@@ -10,6 +10,7 @@ The circular buffer can be sized appropriately for the application. Typically th
 
 Streams are constructed with a buffer size, this has to be large enough to contain the largest object that will be written.
 
+
 ![Screenshot](docs/images/VDI%20Process%20Flow.png)
 
 
